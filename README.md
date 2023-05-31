@@ -1,7 +1,7 @@
 Backend: yarn ts-node --files ./scripts/deployLottery.ts
 
 Frontend:
-- Edit next.config.ts with addresses
+- Edit next.config.js with addresses
 - npm run dev
 
 For fast testing:
